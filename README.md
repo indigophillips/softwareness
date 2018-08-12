@@ -22,4 +22,4 @@
 
 ## THE WHO
 
-Created under the guidance of Don Smith along with Mamaku Cohort 2018 from Enspiral Dev Academy
+Created under the guidance, help and support of Don Smith along with all members of the Mamaku Cohort 2018 from Enspiral Dev Academy.
